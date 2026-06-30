@@ -64,10 +64,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-five-phi-69.vercel.app/api/top-langs/?username=MarkAlfred95&layout=compact&theme=merko&hide_border=true&count_private=true&include_all_commits=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkAlfred95&layout=compact&theme=merko&hide_border=true&count_private=true&include_all_commits=true"
     />
     <img
-      src="https://github-readme-stats-five-phi-69.vercel.app/api/top-langs/?username=MarkAlfred95&layout=compact&hide_border=true&count_private=true&include_all_commits=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkAlfred95&layout=compact&hide_border=true&count_private=true&include_all_commits=true"
       height="124"
       alt="Top languages"
     />
