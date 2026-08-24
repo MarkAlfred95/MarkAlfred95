@@ -37,9 +37,8 @@
   <tr>
     <td align="center">
       <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter" /></a>&nbsp;
-      <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart" /></a>&nbsp;
-      <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" /></a>
-      <br /><sub>Flutter · Dart · Android</sub>
+      <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart" /></a>&nbsp;</a>
+      <br /><sub>Flutter · Dart</sub>
     </td>
     <td align="center">
       <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /></a>&nbsp;
@@ -58,57 +57,8 @@
     <td align="center">
       <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /></a>&nbsp;
       <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>&nbsp;
-      <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" /></a>&nbsp;
       <a href="https://figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" /></a>&nbsp;
-      <a href="https://trello.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40" height="40" alt="Trello" /></a>
-      <br /><sub>Git · Docker · Postman · Figma · Trello</sub>
-    </td>
-  </tr>
-</table>
-</div>
-
-## Featured Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/MarkAlfred95/card-games">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-phi-69.vercel.app/api/pin/?username=MarkAlfred95&repo=card-games&theme=merko&hide_border=true&description_lines_count=2" />
-          <img src="https://github-readme-stats-five-phi-69.vercel.app/api/pin/?username=MarkAlfred95&repo=card-games&hide_border=true&description_lines_count=2" alt="card-games" />
-        </picture>
-      </a>
-      <br />
-      <a href="https://mai-card-games.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/MarkAlfred95/CalcPlus">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-phi-69.vercel.app/api/pin/?username=MarkAlfred95&repo=CalcPlus&theme=merko&hide_border=true&description_lines_count=2" />
-          <img src="https://github-readme-stats-five-phi-69.vercel.app/api/pin/?username=MarkAlfred95&repo=CalcPlus&hide_border=true&description_lines_count=2" alt="CalcPlus" />
-        </picture>
-      </a>
-      <br />
-      <a href="https://ma-calcplus.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/MarkAlfred95/leetcode-solutions">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-phi-69.vercel.app/api/pin/?username=MarkAlfred95&repo=leetcode-solutions&theme=merko&hide_border=true&description_lines_count=2" />
-          <img src="https://github-readme-stats-five-phi-69.vercel.app/api/pin/?username=MarkAlfred95&repo=leetcode-solutions&hide_border=true&description_lines_count=2" alt="leetcode-solutions" />
-        </picture>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/MarkAlfred95/unreal-drums">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-phi-69.vercel.app/api/pin/?username=MarkAlfred95&repo=unreal-drums&theme=merko&hide_border=true&description_lines_count=2" />
-          <img src="https://github-readme-stats-five-phi-69.vercel.app/api/pin/?username=MarkAlfred95&repo=unreal-drums&hide_border=true&description_lines_count=2" alt="unreal-drums" />
-        </picture>
-      </a>
+      <br /><sub>Git · Docker · Figma</sub>
     </td>
   </tr>
 </table>
@@ -126,7 +76,7 @@
   />
   <img
     src="https://github-readme-stats-five-phi-69.vercel.app/api?username=MarkAlfred95&show_icons=true&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true&card_width=450"
-    height="165"
+    height="130"
     alt="GitHub stats"
   />
 </picture>
@@ -139,7 +89,7 @@
   />
   <img
     src="https://github-readme-stats-five-phi-69.vercel.app/api/top-langs/?username=MarkAlfred95&layout=compact&langs_count=8&hide_border=true&count_private=true&include_all_commits=true&card_width=320"
-    height="165"
+    height="130"
     alt="Top languages"
   />
 </picture>
@@ -152,7 +102,7 @@
   />
   <img
     src="https://streak-stats.vercel.app/?user=MarkAlfred95&hide_border=true"
-    height="165"
+    height="130"
     alt="GitHub streak"
   />
 </picture>
