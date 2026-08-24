@@ -42,10 +42,12 @@
     </td>
     <td align="center">
       <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /></a>&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      </a>&nbsp;
       <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>&nbsp;
       <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /></a>&nbsp;
       <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" /></a>
-      <br /><sub>React · TypeScript · PHP · Tailwind</sub>
+      <br /><sub>React · JavaScript · TypeScript · PHP · Tailwind</sub>
     </td>
     <td align="center">
       <a href="https://laravel.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40" alt="Laravel" /></a>&nbsp;
@@ -108,8 +110,6 @@
 </picture>
 
 </div>
-
-## Trophies
 
 <div align="center">
 <picture>
