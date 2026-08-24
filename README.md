@@ -76,7 +76,7 @@
   />
   <img
     src="https://github-readme-stats-five-phi-69.vercel.app/api?username=MarkAlfred95&show_icons=true&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true&card_width=450"
-    height="130"
+    height="124"
     alt="GitHub stats"
   />
 </picture>
@@ -89,7 +89,7 @@
   />
   <img
     src="https://github-readme-stats-five-phi-69.vercel.app/api/top-langs/?username=MarkAlfred95&layout=compact&langs_count=8&hide_border=true&count_private=true&include_all_commits=true&card_width=320"
-    height="130"
+    height="124"
     alt="Top languages"
   />
 </picture>
@@ -102,7 +102,7 @@
   />
   <img
     src="https://streak-stats.vercel.app/?user=MarkAlfred95&hide_border=true"
-    height="130"
+    height="124"
     alt="GitHub streak"
   />
 </picture>
@@ -115,10 +115,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-trophies.vercel.app/?username=MarkAlfred95&theme=matrix&no-frame=true&column=4&margin-w=8&margin-h=8&title=MultiLanguage%2CLongTimeUser%2CCommits%2CPullRequest%2CRepositories%2CStars%2CFollowers"
+    srcset="https://github-trophies.vercel.app/?username=MarkAlfred95&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8&title=MultiLanguage%2CLongTimeUser%2CCommits%2CPullRequest%2CRepositories%2CStars%2CFollowers"
   />
   <img
-    src="https://github-trophies.vercel.app/?username=MarkAlfred95&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8&title=MultiLanguage%2CLongTimeUser%2CCommits%2CPullRequest%2CRepositories%2CStars%2CFollowers"
+    src="https://github-trophies.vercel.app/?username=MarkAlfred95&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8&title=MultiLanguage%2CLongTimeUser%2CCommits%2CPullRequest%2CRepositories%2CStars%2CFollowers"
     alt="GitHub trophies"
   />
 </picture>
