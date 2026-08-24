@@ -157,18 +157,6 @@
   />
 </picture>
 
-<!-- Contribution activity -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=MarkAlfred95&theme=merko&hide_border=true&area=true&custom_title=Contribution%20Activity"
-  />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MarkAlfred95&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity"
-    alt="Contribution activity graph"
-  />
-</picture>
-
 </div>
 
 ## Trophies
@@ -177,10 +165,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-trophies.vercel.app/?username=MarkAlfred95&theme=matrix&no-frame=true&column=4&margin-w=8&margin-h=8&title=MultiLanguage,LongTimeUser,Commits,Repositories,Followers,Issues,Stars,PullRequest"
+    srcset="https://github-trophies.vercel.app/?username=MarkAlfred95&theme=matrix&no-frame=true&column=4&margin-w=8&margin-h=8&title=MultiLanguage%2CLongTimeUser%2CCommits%2CPullRequest%2CRepositories%2CStars%2CFollowers"
   />
   <img
-    src="https://github-trophies.vercel.app/?username=MarkAlfred95&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8&title=MultiLanguage,LongTimeUser,Commits,Repositories,Followers,Issues,Stars,PullRequest"
+    src="https://github-trophies.vercel.app/?username=MarkAlfred95&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8&title=MultiLanguage%2CLongTimeUser%2CCommits%2CPullRequest%2CRepositories%2CStars%2CFollowers"
     alt="GitHub trophies"
   />
 </picture>
